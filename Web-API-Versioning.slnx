@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../Web-API-Versioning.Tests/Web-API-Versioning.Tests.csproj" Id="f2be6d82-2dbd-434e-93bf-bcd875a13b41" />
   <Project Path="Web-API-Versioning.csproj" />
 </Solution>
